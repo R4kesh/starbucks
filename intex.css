@@ -1,0 +1,34 @@
+.log{
+    height: 50px;
+    width: 50px;
+}
+.form-control{
+    width: 280px;
+}
+.card-1{
+   background-color: #1e3932;
+    height: 70px;
+    color: aliceblue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+      
+    
+}
+.carousel-item{
+    background-color: burlywood;
+    height: 250px;
+}
+.img1{
+    margin-left: 20px;
+    height: 200px;
+}
+.nav-link{
+    margin-right: 30px;
+}
+.nav-item .nav-link:hover{
+    color: lightslategray;
+}
+
+
